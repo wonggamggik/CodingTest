@@ -6,7 +6,7 @@
 </br>
 
 ## 폴더 소개
-rmxth 폴더 = rmxth가 푼 코딩테스트 코드를 모은 폴더
+gnsxun 폴더 = gnsxun가 푼 코딩테스트 코드를 모은 폴더
 
 wonggamggik 폴더 = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
   
