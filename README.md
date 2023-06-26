@@ -45,3 +45,14 @@ wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
 - 코딩 테스트 준비 - 문제 - https://code.plus/course/53
 - 알고리즘 고급으로 가는 연결고리 1/2 - https://code.plus/course/46
 - 알고리즘 고급으로 가는 연결고리 2/2 - https://code.plus/course/47
+
+<br>
+
+---------------------------------------
+
+### 문제 풀이 참조 사항
+- 문제 풀이의 기본
+- 시간 복잡도
+1. [Problem Solving Basic](./cheatsheet/problem_solving.md)
+
+2. [Time complexity](./cheatsheet/time_complexity.md)
