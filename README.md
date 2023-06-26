@@ -4,10 +4,10 @@
 #### 우리가 푼 코딩테스트 문제를 정리한 공간이다.
 
 ---------------------------------------
-
+### 멤버 소개
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/wonggamggik)
 
-
+---------------------------------------
 ### 폴더 소개
 gnsxun branch = gnsxun가 푼 코딩테스트 코드를 모은 폴더
 
