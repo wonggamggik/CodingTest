@@ -74,4 +74,5 @@
 
    * 두 항에서 변수가 다른 경우 놔둠: <img src="https://chart.apis.google.com/chart?cht=tx&chl=O(N%5E2%5C%20%2B%5C%20M)" />
 
-- https://github.com/KIMBIBLE/algorithm_solving/blob/master/cheatsheet/time_complexity.md를 가져옴
+---
+https://github.com/KIMBIBLE/algorithm_solving/blob/master/cheatsheet/time_complexity.md를 가져옴
