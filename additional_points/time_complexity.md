@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](./figure/big_o.png)
+![](./big-o-cheat-sheet-poster.png)
 
 <a href="https://www.bigocheatsheet.com/">Link</a>
 
