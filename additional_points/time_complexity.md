@@ -4,7 +4,7 @@
 
 ![](./figure/big_o.png)
 
-<a href="https://stackoverflow.com/questions/559839/big-o-summary-for-java-collections-framework-implementations">Link</a>
+<a href="https://www.bigocheatsheet.com/">Link</a>
 
 </div>
 
