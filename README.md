@@ -5,7 +5,7 @@
 
 ---------------------------------------
 
-[![bbkim's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/profile/wonggamggik)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/wonggamggik)
 
 
 ### 폴더 소개
