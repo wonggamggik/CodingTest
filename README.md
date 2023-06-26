@@ -2,17 +2,17 @@
 
 #### It is a space that summarizes the coding test questions we solved.
 #### 우리가 푼 코딩테스트 문제를 정리한 공간이다.
-
+<br>
 ---------------------------------------
 ### 멤버 소개
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/wonggamggik)
-
+<br>
 ---------------------------------------
 ### 폴더 소개
 gnsxun branch = gnsxun가 푼 코딩테스트 코드를 모은 폴더
 
 wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
-  
+<br>
 ---------------------------------------
 
 ### 개인 폴더 코테 작성 형식
@@ -21,7 +21,7 @@ wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
 2. 코드를 작성한 사람 이외의 사람들의 추가적인 질문 및 설명
 3. 개인 폴더 코테 작성 형식은 아래 출처의 문서 형식을 따른다.
     https://github.com/KIMBIBLE/algorithm_solving/blob/master/templates/writeup_template.md
-
+<br>
 ---------------------------------------
 
 ### 문제 풀이 계획
