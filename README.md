@@ -5,6 +5,9 @@
 
 ---------------------------------------
 
+[![bbkim's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/profile/wonggamggik)
+
+
 ### 폴더 소개
 gnsxun branch = gnsxun가 푼 코딩테스트 코드를 모은 폴더
 
