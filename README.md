@@ -51,8 +51,6 @@ wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
 ---------------------------------------
 
 ### 문제 풀이 참조 사항
-- 문제 풀이의 기본
-- 시간 복잡도
-1. [Problem Solving Basic](./cheatsheet/problem_solving.md)
+1. [문제 풀이의 기본](./additional_points/problem_solving.md)
 
-2. [Time complexity](./cheatsheet/time_complexity.md)
+2. [시간 복잡도](./additional_points/time_complexity.md)
