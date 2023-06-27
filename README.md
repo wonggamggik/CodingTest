@@ -35,9 +35,9 @@ wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
 ### 문제 풀이 계획
 2023/06/27 백준 강의에서 제공하는 문제들로 시작할 예정   
 순서대로 차근차근 풀어가며 1~3문제 풀 예정 
+- 코딩 테스트 준비 - 기초 - https://code.plus/course/51
 - 알고리즘 기초 1/2 - https://code.plus/course/41
 - 알고리즘 기초 2/2 - https://code.plus/course/42
-- 코딩 테스트 준비 - 기초 - https://code.plus/course/51
 - 알고리즘 중급 1/3 - https://code.plus/course/43
 - 알고리즘 중급 2/3 - https://code.plus/course/44
 - 알고리즘 중급 3/3 - https://code.plus/course/45
