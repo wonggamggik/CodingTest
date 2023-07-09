@@ -96,4 +96,4 @@
     
       * 파이썬의 경우: `sys.readline()`을 활용하는 방법을 통해, 좀 더 빠르게 입력을 받을 수 있음.
 
-* https://github.com/KIMBIBLE/algorithm_solving/blob/master/cheatsheet/problem_solving.md를 가져옴
+* https://github.com/KIMBIBLE/algorithm_solving/blob/master/cheatsheet/problem_solving.md 를 가져옴
