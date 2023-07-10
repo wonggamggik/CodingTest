@@ -41,10 +41,10 @@ wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
 5. 문제가 부족할 경우 백준을 통해 추가적인 알고리즘 문제 진행
 
   
-프로그래머스 Level 1 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=1
-프로그래머스 Level 2 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=2
-코딩테스트 고득점 Kit - https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
-프로그래머스 Level 3 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=3
+프로그래머스 Level 1 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=1  
+프로그래머스 Level 2 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=2  
+코딩테스트 고득점 Kit - https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit  
+프로그래머스 Level 3 - https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=3  
     
   
 #### 123법칙을 실시한다.  
