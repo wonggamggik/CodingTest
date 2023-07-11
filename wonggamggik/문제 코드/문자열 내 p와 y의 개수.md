@@ -1,9 +1,9 @@
 # 문자열 내 p와 y의 개수
 
-난이도: Level 1
-링크: https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=python3
-문제 푼 날짜: 2023/07/11
-해결 여부: 문제 해결
+난이도: Level 1  
+링크: https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=python3  
+문제 푼 날짜: 2023/07/11  
+해결 여부: 문제 해결  
 
 ## 내가 푼 코드
 
