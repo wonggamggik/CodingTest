@@ -1,0 +1,37 @@
+# 이상한 문자 만들기
+
+난이도: Level 1
+링크: https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=python3
+문제 푼 날짜: 2023/07/12
+해결 여부: 문제 해결
+
+## 내가 푼 코드
+
+```python
+def solution(s):
+    answer = s.split(' ')
+    result = ''
+    
+    for i in answer:
+        for j in range(len(i)):
+            if j % 2 == 0:
+                result += i[j].upper()
+            else:
+                result += i[j].lower()
+        result += ' '
+        
+    return result[:-1]
+```
+
+## 타인이 푼 코드
+
+### 타인이 푼 방법 1 - enumerate를 활용한 풀이
+
+```python
+def solution(s):
+    return " ".join(map(lambda x: "".join([a.lower() if i % 2 else a.upper() for i, a in enumerate(x)]), s.split(" ")))
+```
+
+enumerate를 어떻게 쓰는지 내가 모름
+
+그래서 안썻는데 우선 찾아서 적어놔야 될 것 같음
