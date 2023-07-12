@@ -4,7 +4,7 @@
 
 ![](./big-o-cheat-sheet-poster.png)
 
-<a href="https://www.bigocheatsheet.com/">Link</a>
+<a href="https://www.bigocheatsheet.com/">bigocheatsheet</a>
 
 </div>
 
