@@ -1,0 +1,26 @@
+# 하샤드 수
+
+난이도: Level 1
+문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12947
+문제 푼 날짜: 2023/07/13
+해결 여부: 문제 해결
+
+## 내가 푼 코드
+
+```python
+def solution(x):
+    return True if x % sum(list(map(int, str(x)))) == 0 else False
+```
+
+왜 자꾸 ==을 쓰는데 if로 True.False를 분류하지? 이거 습관 잘못들이면 안좋다.
+
+## 타인이 푼 코드
+
+### 타인이 푼 방법 1 - 반복문을 통해 계산
+
+```python
+def solution(n):
+    return n%sum(int(x) for x in str(n)) == 0
+```
+
+좋긴한데 map()이 더 효율 좋지 않나? 아님 말고
