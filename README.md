@@ -2,47 +2,6 @@
 
 #### It is a space that summarizes the coding test questions we solved.
 #### 우리가 푼 코딩테스트 문제를 정리한 공간이다.
-
-<br>
-
-<!-- 
----------------------------------------
-### 멤버 소개
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonggamggik)](https://solved.ac/wonggamggik)
--->
-<br>
-
----------------------------------------
-### 폴더 소개
-gnsxun branch = gnsxun가 푼 코딩테스트 코드를 모은 폴더
-
-wonggamggik branch = wonggamggik이 푼 코딩테스트 코드를 모은 폴더
-
-<br>
-
----------------------------------------
-
-### 개인 폴더 코테 작성 형식
-개개인의 폴더는 이하의 형식을 따르며 이는 후에 변경될 수 있다.
-1. 아래 출처의 문서 형식을 기반으로 코테 작성
-2. 코드를 작성한 사람 이외의 사람들의 추가적인 질문 및 설명
-3. 개인 폴더 코테 작성 형식은 아래 출처의 문서 형식을 따른다.
-    https://github.com/KIMBIBLE/algorithm_solving/blob/master/templates/writeup_template.md
-   
-<br>
-
----------------------------------------
-
-### 문제 풀이 계획
-#### 순서대로 차근차근 풀어가며 1~3문제 풀 예정 
-백준의 강의에서 제공하는 문제 모음을 차근차근 풀어갈 예정<br>
-[알고리즘 기초 1/2](https://code.plus/course/41).<br>
-[알고리즘 기초 2/2](https://code.plus/course/42).<br>
-[알고리즘 중급 1/3](https://code.plus/course/43).<br>
-[알고리즘 중급 2/3](https://code.plus/course/44).<br>
-[알고리즘 중급 3/3](https://code.plus/course/45).<br>
-[알고리즘 고급으로 가는 연결고리 1/2](https://code.plus/course/46).<br>
-[알고리즘 고급으로 가는 연결고리 2/2](https://code.plus/course/47).<br>
   
 ---------------------------------------
 
