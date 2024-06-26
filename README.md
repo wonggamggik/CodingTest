@@ -19,7 +19,7 @@
 |------|------|-----------|---------|------------|---------------|-----------|-----------|
 | 1 | 자료구조 1 | 스택 |    실버4     |     성공       |       2024.06.24        |   [문제 링크](https://www.acmicpc.net/problem/10828)        |      [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EC%8A%A4%ED%83%9D_%EB%B0%B1%EC%A4%80_10828.js )    |
 | 2 | 자료구조 1 | 단어 뒤집기 |    브론즈1     |   성공         |   2024.06.26            |  [문제링크](https://www.acmicpc.net/problem/9093)         |     [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0_9093_%EB%B0%B1%EC%A4%80.js)      |
-| 3 | 자료구조 1 | 괄호 |         |            |               |           |           |
+| 3 | 자료구조 1 | 괄호 |     실버4    |            |               |     [문제 링크](https://www.acmicpc.net/problem/9012)      |           |
 | 4 | 자료구조 1 | 스택 수열 |         |            |               |           |           |
 | 5 | 자료구조 1 | 에디터 |         |            |               |           |           |
 | 6 | 자료구조 1 | 큐 |         |            |               |           |           |
