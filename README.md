@@ -53,10 +53,10 @@
 | 34 | 수학 1 (연습) | 8진수 2진수 |         |            |               |      [1212](https://www.acmicpc.net/problem/1212)     |           |
 | 35 | 수학 1 (연습) | -2진수 |         |            |               |      [2089](https://www.acmicpc.net/problem/2089)     |           |
 | 36 | 수학 1 (연습) | 골드바흐 파티션 |         |            |               |      [17103](https://www.acmicpc.net/problem/17103)     |           |
-| 37 | 수학 1 (참고) | 진법 변환 2 |         |            |               |           |           |
-| 38 | 수학 1 (참고) | 진법 변환 |         |            |               |           |           |
-| 39 | 수학 1 (참고) | Base Conversion |         |            |               |           |           |
-| 40 | 수학 1 (참고) | 소인수분해 |         |            |               |           |           |
+| 37 | 수학 1 (참고) | 진법 변환 2 |         |            |               |      [11005](https://www.acmicpc.net/problem/11005)     |           |
+| 38 | 수학 1 (참고) | 진법 변환 |         |            |               |     [2745](https://www.acmicpc.net/problem/2745)      |           |
+| 39 | 수학 1 (참고) | Base Conversion |         |            |               |     [11576](https://www.acmicpc.net/problem/11576)      |           |
+| 40 | 수학 1 (참고) | 소인수분해 |         |            |               |    [11653](https://www.acmicpc.net/problem/11653)       |           |
 | 41 | 다이나믹 프로그래밍 1 | 1로 만들기 |         |            |               |      [1463](https://www.acmicpc.net/problem/1463)     |           |
 | 42 | 다이나믹 프로그래밍 1 | 2×n 타일링 |         |            |               |      [11726](https://www.acmicpc.net/problem/11726)     |           |
 | 43 | 다이나믹 프로그래밍 1 | 2×n 타일링 2 |         |            |               |      [11727](https://www.acmicpc.net/problem/11727)     |           |
