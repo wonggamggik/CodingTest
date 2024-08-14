@@ -22,7 +22,8 @@
 | 3 | 자료구조 1 | 괄호 |     실버4    |        성공    |     2024.06.27          |     [9012](https://www.acmicpc.net/problem/9012)      |   [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EA%B4%84%ED%98%B8_9012_%EB%B0%B1%EC%A4%80.js)        |
 | 4 | 자료구조 1 | 스택 수열 |    실버2     |   성공         |     2024.06.29          |   [1874](https://www.acmicpc.net/problem/1874)        |    [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4_1874_%EB%B0%B1%EC%A4%80.js)       |
 | 5 | 자료구조 1 | 에디터 |    실버2     |        실패    |               |      [1406](https://www.acmicpc.net/problem/1406)     |           |60분 초과 다른 날로 이관|
-| 6 | 자료구조 1 | 큐 |   실버4      |      성공      |     2024.08.14          |       [10845](https://www.acmicpc.net/problem/10845)    |   https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%ED%81%90_10845_%EB%B0%B1%EC%A4%80.js        |
+| 6 | 자료구조 1 | 큐 |   실버4      |      성공      |     2024.08.14          |       [10845](https://www.acmicpc.net/problem/10845)    |   
+[풀이링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%ED%81%90_10845_%EB%B0%B1%EC%A4%80.js)        |
 | 7 | 자료구조 1 | 조세퍼스 문제 |     실버4    |            |               |  [1158](https://www.acmicpc.net/problem/1158)         |           |
 | 8 | 자료구조 1 | 덱 |   실버4      |            |               |    [10866](https://www.acmicpc.net/problem/10866)       |           |
 | 9 | 자료구조 1 (연습) | 단어 뒤집기 2 |         |            |               |   [17413](https://www.acmicpc.net/problem/17413)        |           |
