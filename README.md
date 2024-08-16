@@ -15,7 +15,7 @@
 - [알고리즘 고급으로 가는 연결고리 2/2](#알고리즘-고급으로-가는-연결고리-22)
 
 ## [알고리즘 기초 1/2](https://code.plus/course/41) 
-| 번호 | 섹션 | 문제 이름 | 난이도 | 해결 여부 | 문제 푼 날짜 | 문제 링크 | 풀이 링크 |참고사항|
+| 번호 | 섹션 | 문제 이름 | 난이도 | 상태 | 문제 푼 날짜 | 문제 링크 | 풀이 링크 |참고사항|
 |------|------|-----------|---------|------------|---------------|-----------|-----------|---------|
 | 1 | 자료구조 1 | 스택 |    실버4     |     성공       |       2024.06.24        |   [10828](https://www.acmicpc.net/problem/10828)        |      [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EC%8A%A4%ED%83%9D_%EB%B0%B1%EC%A4%80_10828.js )    |
 | 2 | 자료구조 1 | 단어 뒤집기 |    브론즈1     |   성공         |   2024.06.26            |  [9093](https://www.acmicpc.net/problem/9093)         |     [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0_9093_%EB%B0%B1%EC%A4%80.js)      |
