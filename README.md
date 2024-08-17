@@ -28,7 +28,7 @@
 | 9 | 자료구조 1 (연습) | 단어 뒤집기 2 |    실버3     |    실패        |       2024.08.16        |   [17413](https://www.acmicpc.net/problem/17413)        |           | 반례를 찾고있는 중 |
 | 10 | 자료구조 1 (연습) | 쇠막대기 |   실버2      |      성공      |     2024.08.16          |     [10799](https://www.acmicpc.net/problem/10799)      |      [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0_10799_%EB%B0%B1%EC%A4%80.js)     |  |
 | 11 | 자료구조 1 (연습) | 오큰수 |    골드4     |     실패       |     2024.08.16          |      [17298](https://www.acmicpc.net/problem/17298)     |           | 60분 초과, 다른 날로 이관 |
-| 12 | 자료구조 1 (연습) | 오등큰수 |         |            |               |     [17299](https://www.acmicpc.net/problem/17299)      |           |
+| 12 | 자료구조 1 (연습) | 오등큰수 |    골드4   |    실패        |      2024.08.17         |     [17299](https://www.acmicpc.net/problem/17299)      |           |60분 초과, 다른 날로 이관 |
 | 13 | 자료구조 1 (참고) | 후위 표기식2 |         |            |               |      [1935](https://www.acmicpc.net/problem/1935)     |           |
 | 14 | 자료구조 1 (참고) | 후위 표기식 |         |            |               |      [1918](https://www.acmicpc.net/problem/1918)     |           |
 | 15 | 자료구조 1 (참고) | 알파벳 개수 |         |            |               |      [10808](https://www.acmicpc.net/problem/10808)     |           |
