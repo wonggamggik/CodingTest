@@ -1,0 +1,32 @@
+function gcd(a = 0, b = 0) {
+  while (b != 0) {
+    temp = a;
+    a = b;
+    b = temp % b;
+  }
+  return a;
+}
+
+const input = require("fs")
+  .readFileSync("/dev/stdin")
+  .toString()
+  .trim()
+  .split("\n");
+
+// const input = require("fs")
+//   .readFileSync("baekjoon_nodejs_17087.txt")
+//   .toString()
+//   .trim()
+//   .split("\n");
+
+const nuna = Number(input[0].split(" ")[1]);
+let son = input[1].trim().split(" ").map(Number);
+son = son.map((x) => Math.abs(x - nuna));
+
+let result = gcd(son[0], son[1]);
+
+for (let i = 2; i < son.length; i++) {
+  result = gcd(result, son[i]);
+}
+
+console.log(result);
