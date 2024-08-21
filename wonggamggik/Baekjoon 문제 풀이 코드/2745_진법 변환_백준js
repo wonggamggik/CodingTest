@@ -1,0 +1,59 @@
+const input = require("fs")
+  .readFileSync("/dev/stdin")
+  .toString()
+  .trim()
+  .split(" ");
+
+// const input = require("fs")
+//   .readFileSync("baekjoon_nodejs_2745.txt")
+//   .toString()
+//   .trim()
+//   .split(" ");
+
+const arr = [
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "A",
+  "B",
+  "C",
+  "D",
+  "E",
+  "F",
+  "G",
+  "H",
+  "I",
+  "J",
+  "K",
+  "L",
+  "M",
+  "N",
+  "O",
+  "P",
+  "Q",
+  "R",
+  "S",
+  "T",
+  "U",
+  "V",
+  "W",
+  "X",
+  "Y",
+  "Z",
+];
+
+result = 0;
+let j = 0;
+
+for (let i = input[0].length - 1; i >= 0; i--) {
+  result += arr.indexOf(input[0][i]) * input[1] ** j;
+  j++;
+}
+console.log(result);
