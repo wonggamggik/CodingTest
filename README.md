@@ -91,7 +91,7 @@
 | 번호 | 섹션 | 문제 이름 | 난이도 | 상태 | 문제 푼 날짜 | 문제 링크 | 풀이 링크 |참고사항|
 |------|------|-----------|---------|------------|---------------|-----------|-----------|---------|
 | 1 | 브루트 포스 | 일곱 난쟁이 |      ![Bronze 1](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/bronze1.svg)      |     ![success](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/other_image/success.svg)        |       2024.08.23               |  [2309](https://www.acmicpc.net/problem/2309)         |   [문제 풀이](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/2309_%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4_%EB%B0%B1%EC%A4%80js)        |
-| 2 | 브루트 포스 | 사탕 게임 |         |            |               |  [3085](https://www.acmicpc.net/problem/3085)         |           |
+| 2 | 브루트 포스 | 사탕 게임 |       ![Silver 5](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/silver5.svg)      |     ![fail](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/other_image/fail.svg)        |       2024.08.23          |  [3085](https://www.acmicpc.net/problem/3085)         |           |60분 초과로 다른 날로 이관|
 | 3 | 브루트 포스 | 날짜 계산 |         |            |               |  [1476](https://www.acmicpc.net/problem/1476)         |           |
 | 4 | 브루트 포스 | 리모컨 |         |            |               |  [1107](https://www.acmicpc.net/problem/1107)         |           |
 | 5 | 브루트 포스 | 테트로미노 |         |            |               |  [14500](https://www.acmicpc.net/problem/14500)         |           |
