@@ -64,7 +64,7 @@
 | 45 | 다이나믹 프로그래밍 1 | 카드 구매하기 |         |            |               |      [11052](https://www.acmicpc.net/problem/11052)     |           |
 | 46 | 다이나믹 프로그래밍 1 | 카드 구매하기 2 |         |            |               |      [16194](https://www.acmicpc.net/problem/16194)     |           |
 | 47 | 다이나믹 프로그래밍 1 | 1, 2, 3 더하기 5 |      ![Silver 2](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/silver2.svg)      |     ![fail](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/other_image/fail.svg)        |       2024.09.12                       |      [15990](https://www.acmicpc.net/problem/15990)     |           | 60분 초과로 다른 날로 이관|
-| 48 | 다이나믹 프로그래밍 1 | 쉬운 계단 수 |         |            |               |      [10844](https://www.acmicpc.net/problem/10844)     |           |  |
+| 48 | 다이나믹 프로그래밍 1 | 쉬운 계단 수 |      ![Silver 1](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/silver1.svg)      |     ![fail](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/other_image/fail.svg)        |       2024.09.12             |      [10844](https://www.acmicpc.net/problem/10844)     |           | 60분 초과로 다른 날로 이관 |
 | 49 | 다이나믹 프로그래밍 1 | 이친수 |         |            |               |      [2193](https://www.acmicpc.net/problem/2193)     |           |
 | 50 | 다이나믹 프로그래밍 1 | 가장 긴 증가하는 부분 수열 |         |            |               |      [11053](https://www.acmicpc.net/problem/11053)     |           |
 | 51 | 다이나믹 프로그래밍 1 | 가장 긴 증가하는 부분 수열 4 |         |            |               |      [14002](https://www.acmicpc.net/problem/14002)     |           |
