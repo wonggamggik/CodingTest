@@ -267,15 +267,15 @@
 | 8   | 신규 아이디 추천                      | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                   |           |
 | 9   | 바탕화면 정리                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161990)                                  |           |
 | 10  | 키패드 누르기                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                                   |           |
-| 11  | 크레인 인형뽑기 게임                   | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64061)                                   |           |
+| 11  | 크레인 인형뽑기 게임                   | Lv. 1 | ✅ |  2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64061)                                   |           |
 | 12  | 성격 유형 검사하기                    | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118666)                                  |           |
-| 13  | 숫자 짝꿍                             | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131128)                                  |           |
-| 14  | 햄버거 만들기                         | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133502)                                  |           |
+| 13  | 숫자 짝꿍                             | Lv. 1 | ✅ |  2025.01.18 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131128)                                  |           |
+| 14  | 햄버거 만들기                         | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133502)                                  |           |
 | 15  | 체육복                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                   |           |
-| 16  | 완주하지 못한 선수                     | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                                   |           |
-| 17  | 로또의 최고 순위와 최저 순위           | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77484)                                   |           |
-| 18  | 문자열 나누기                         | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108)                                  |           |
-| 19  | 둘만의 암호                           | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                                  |           |
+| 16  | 완주하지 못한 선수                     | Lv. 1 | ✅ |  2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                                   |           |
+| 17  | 로또의 최고 순위와 최저 순위           | Lv. 1 | ✅ |  2025.01.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77484)                                   |           |
+| 18  | 문자열 나누기                         | Lv. 1 | ✅ |  2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108)                                  |           |
+| 19  | 둘만의 암호                           | Lv. 1 | ✅ | 2025.01.09| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                                  |           |
 | 20  | 대충 만든 자판                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586)                                  |           |
 | 21  | [1차] 다트 게임                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17682)                                   |           |
 | 22  | 실패율                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                                   |           |
@@ -308,35 +308,35 @@
 | 49  | 예산                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                   |           |
 | 50  | 같은 숫자는 싫어                      | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                                   |           |
 | 51  | 최대공약수와 최소공배수                | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940)                                   |           |
-| 52  | 직사각형 별찍기                        | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12969)                                   |           |
-| 53  | 문자열 다루기 기본                    | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918)                                   |           |
-| 54  | 행렬의 덧셈                          | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                                   |           |
-| 55  | 문자열 내림차순으로 배치하기          | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917)                                   |           |
-| 56  | 부족한 금액 계산하기                  | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612)                                   |           |
-| 57  | 수박수박수박수박수박수?               | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12922)                                   |           |
-| 58  | 약수의 개수와 덧셈                     | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                                   |           |
-| 59  | 제일 작은 수 제거하기                  | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935)                                   |           |
-| 60  | 핸드폰 번호 가리기                     | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12948)                                   |           |
-| 61  | 내적                                 | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70128)                                   |           |
-| 62  | 가운데 글자 가져오기                   | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12903)                                   |           |
-| 63  | 나누어 떨어지는 숫자 배열              | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12910)                                   |           |
-| 64  | 서울에서 김서방 찾기                   | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12919)                                   |           |
-| 65  | 콜라츠 추측                           | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                                   |           |
-| 66  | 음양 더하기                           | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76501)                                   |           |
-| 67  | 없는 숫자 더하기                       | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86051)                                   |           |
-| 68  | 두 정수 사이의 합                      | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12912)                                   |           |
-| 69  | 문자열 내 p와 y의 개수                 | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916)                                   |           |
-| 70  | 정수 내림차순으로 배치하기             | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933)                                   |           |
-| 71  | 정수 제곱근 판별                      | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12934)                                   |           |
-| 72  | 하샤드 수                            | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                                   |           |
-| 73  | 문자열을 정수로 바꾸기                 | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925)                                   |           |
-| 74  | 약수의 합                            | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928)                                   |           |
-| 75  | 자릿수 더하기                          | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12931)                                   |           |
-| 76  | 짝수와 홀수                            | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12937)                                   |           |
-| 77  | 평균 구하기                           | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                                   |           |
-| 78  | x만큼 간격이 있는 n개의 숫자            | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954)                                   |           |
-| 79  | 나머지가 1이 되는 수 찾기              | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389)                                   |           |
-| 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |           |
+| 52  | 직사각형 별찍기                        | Lv. 1 | ✅ | 2025.01.25| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12969)                                   |           |
+| 53  | 문자열 다루기 기본                    | Lv. 1 | ✅ | 2025.01.25 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918)                                   |           |
+| 54  | 행렬의 덧셈                          | Lv. 1 | ✅ | 2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                                   |           |
+| 55  | 문자열 내림차순으로 배치하기          | Lv. 1 | ✅ |2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917)                                   |           |
+| 56  | 부족한 금액 계산하기                  | Lv. 1 | ✅ |2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612)                                   |           |
+| 57  | 수박수박수박수박수박수?               | Lv. 1 | ✅ |2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12922)                                   |           |
+| 58  | 약수의 개수와 덧셈                     | Lv. 1 | ✅ | 2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                                   |           |
+| 59  | 제일 작은 수 제거하기                  | Lv. 1 | ✅ |2025.01.19| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935)                                   |           |
+| 60  | 핸드폰 번호 가리기                     | Lv. 1 | ✅ | 2025.01.18 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12948)                                   |           |
+| 61  | 내적                                 | Lv. 1 | ✅ |2025.01.18 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70128)                                   |           |
+| 62  | 가운데 글자 가져오기                   | Lv. 1 | ✅ |2025.01.18 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12903)                                   |           |
+| 63  | 나누어 떨어지는 숫자 배열              | Lv. 1 | ✅ |2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12910)                                   |           |
+| 64  | 서울에서 김서방 찾기                   | Lv. 1 |  ✅  |  2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12919)                                   |           |
+| 65  | 콜라츠 추측                           | Lv. 1 |  ✅  | 2025.01.17| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                                   |           |
+| 66  | 음양 더하기                           | Lv. 1 |  ✅  | 2025.01.19| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76501)                                   |           |
+| 67  | 없는 숫자 더하기                       | Lv. 1 |  ✅  | 2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86051)                                   |           |
+| 68  | 두 정수 사이의 합                      | Lv. 1 | ✅ | 2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12912)                                   |           |
+| 69  | 문자열 내 p와 y의 개수                 | Lv. 1 | ✅ |2025.01.17| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916)                                   |           |
+| 70  | 정수 내림차순으로 배치하기             | Lv. 1 | ✅ |2025.01.17| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933)                                   |           |
+| 71  | 정수 제곱근 판별                      | Lv. 1 | ✅ |2025.01.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12934)                                   |           |
+| 72  | 하샤드 수                            | Lv. 1 | ✅ |2025.01.09| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                                   |           |
+| 73  | 문자열을 정수로 바꾸기                 | Lv. 1 | ✅ |2025.01.07| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925)                                   |           |
+| 74  | 약수의 합                            | Lv. 1 | ✅ | 2025.01.09| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928)                                   |           |
+| 75  | 자릿수 더하기                          | Lv. 1 | ✅ |2025.01.08| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12931)                                   |           |
+| 76  | 짝수와 홀수                            | Lv. 1 | ✅ |2025.01.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12937)                                   |           |
+| 77  | 평균 구하기                           | Lv. 1 | ✅ | 2025.01.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                                   |           |
+| 78  | x만큼 간격이 있는 n개의 숫자            | Lv. 1 | ✅ | 2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954)                                   |           |
+| 79  | 나머지가 1이 되는 수 찾기              | Lv. 1 | ✅ |2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389)                                   |           |
+| 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |           |
 
 
 
