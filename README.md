@@ -5,7 +5,7 @@
   
 ---------------------------------------
 
-# 백준 문제 풀이 모음
+# 문제 풀이 링크
 - [알고리즘 기초 1/2](#알고리즘-기초-12)
 - [알고리즘 기초 2/2](#알고리즘-기초-22)
 - [알고리즘 중급 1/3](#알고리즘-중급-13)
@@ -13,7 +13,11 @@
 - [알고리즘 중급 3/3](#알고리즘-중급-33)
 - [알고리즘 고급으로 가는 연결고리 1/2](#알고리즘-고급으로-가는-연결고리-12)
 - [알고리즘 고급으로 가는 연결고리 2/2](#알고리즘-고급으로-가는-연결고리-22)
+- [프로그래머스 LV1](#프로그래머스-lv1)
+- [프로그래머스 LV2](#프로그래머스-lv2)
+- [프로그래머스 LV3](#프로그래머스-lv3)
 
+# 백준 문제 풀이 목음
 ## [알고리즘 기초 1/2](https://code.plus/course/41) 
 | 번호 | 섹션 | 문제 이름 | 난이도 | 상태 | 문제 푼 날짜 | 문제 링크 | 풀이 링크 |참고사항|
 |------|------|-----------|---------|------------|---------------|-----------|-----------|---------|
@@ -248,5 +252,16 @@
 ## [알고리즘 중급 3/3](https://code.plus/course/45)
 ## [알고리즘 고급으로 가는 연결고리 1/2](https://code.plus/course/46)
 ## [알고리즘 고급으로 가는 연결고리 2/2](https://code.plus/course/47)
+
+# 프로그래머스 문제 풀이 목음
+## [프로그래머스 LV1](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=1)
+| 번호 | 문제 이름 | 난이도 | 상태 | 문제 푼 날짜 | 문제 링크 | 풀이 링크 |
+|------|-----------|---------|------------|---------------|-----------|-----------|
+| 1 | 문자열을 정수로 바꾸기 | LV.1 | ✅ 해결 | 2024.01.01 | [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12925) | [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/programmers/12925_문자열을정수로바꾸기.js) |
+| 2 | 나머지가 1이 되는 수 찾기 | LV.1 | ✅ 해결 | 2024.01.02 | [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/87389) | [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/programmers/87389_나머지가1이되는수찾기.js) |
+| 3 | 수박수박수박수박수박수? | LV.1 | ✅ 해결 | 2024.01.03 | [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12922) | [풀이 링크](https://github.com/wonggamggik/CodingTest/blob/main/programmers/12922_수박수박수박수박수박수.js) |
+
+## [프로그래머스 LV2](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=2)
+## [프로그래머스 LV3](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=3)
 
 
