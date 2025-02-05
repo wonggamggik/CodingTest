@@ -299,10 +299,10 @@
 | 40  | 푸드 파이트 대회                      | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134240)                                  |           |
 | 41  | K번째수                              | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                   |           |
 | 42  | 시저 암호                            | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                                   |           |
-| 43  | 가장 가까운 같은 글자                 | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086)                                  |           |
-| 44  | 최소직사각형                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                                   |           |
-| 45  | 이상한 문자 만들기                    | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930)                                   |           |
-| 46  | 3진법 뒤집기                          | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                                   |           |
+| 43  | 가장 가까운 같은 글자                 | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086)                                  |           |
+| 44  | 최소직사각형                         | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                                   |           |
+| 45  | 이상한 문자 만들기                    | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930)                                   |           |
+| 46  | 3진법 뒤집기                          | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                                   |           |
 | 47  | 삼총사                              | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                                  |           |
 | 48  | 크기가 작은 부분 문자열                | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                                  |           |
 | 49  | 예산                               | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                   |           |
