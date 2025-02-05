@@ -303,11 +303,11 @@
 | 44  | 최소직사각형                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                                   |           |
 | 45  | 이상한 문자 만들기                    | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930)                                   |           |
 | 46  | 3진법 뒤집기                          | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                                   |           |
-| 47  | 삼총사                              | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                                  |           |
-| 48  | 크기가 작은 부분 문자열                | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                                  |           |
-| 49  | 예산                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                   |           |
+| 47  | 삼총사                              | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                                  |           |
+| 48  | 크기가 작은 부분 문자열                | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                                  |           |
+| 49  | 예산                               | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                   |           |
 | 50  | 같은 숫자는 싫어                      | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                                   |           |
-| 51  | 최대공약수와 최소공배수                | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940)                                   |           |
+| 51  | 최대공약수와 최소공배수                | Lv. 1 | ✅ | 2025.02.05 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940)                                   |           |
 | 52  | 직사각형 별찍기                        | Lv. 1 | ✅ | 2025.01.25| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12969)                                   |           |
 | 53  | 문자열 다루기 기본                    | Lv. 1 | ✅ | 2025.01.25 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918)                                   |           |
 | 54  | 행렬의 덧셈                          | Lv. 1 | ✅ | 2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                                   |           |
