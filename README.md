@@ -296,7 +296,7 @@
 | 37  | 명예의 전당 (1)                       | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/138477)                                  |           |
 | 38  | 두 개 뽑아서 더하기                   | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68644)                                   |           |
 | 39  | 숫자 문자열과 영단어                  | Lv. 1 | ✅ | 2025.02.09  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301)                                   |           |
-| 40  | 푸드 파이트 대회                      | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134240)                                  |           |
+| 40  | 푸드 파이트 대회                      | Lv. 1 | ✅ | 2025.02.09  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134240)                                  |           |
 | 41  | K번째수                              | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                   |           |
 | 42  | 시저 암호                            | Lv. 1 | ✅ | 2025.02.09  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                                   |           |
 | 43  | 가장 가까운 같은 글자                 | Lv. 1 | ✅ | 2025.02.05  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086)                                  |           |
