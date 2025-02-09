@@ -287,9 +287,9 @@
 | 28  | 모의고사                             | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                   |           |
 | 29  | 폰켓몬                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    |           |
 | 30  | 기사단원의 무기                       | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798)                                  |           |
-| 31  | 2016년                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                                   |           |
-| 32  | [1차] 비밀지도                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                                   |           |
-| 33  | 카드 뭉치                             | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                                  |           |
+| 31  | 2016년                               | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                                   |           |
+| 32  | [1차] 비밀지도                        | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                                   |           |
+| 33  | 카드 뭉치                             | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                                  |           |
 | 34  | 추억 점수                             | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                                  |           |
 | 35  | 문자열 내 마음대로 정렬하기            | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12915)                                   |           |
 | 36  | 콜라 문제                            | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                                  |           |
