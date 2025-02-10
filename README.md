@@ -78,12 +78,12 @@
 | 22  | 실패율                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                                   |           |
 | 23  | 옹알이 (2)                            | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133499)                                  |           |
 | 24  | 소수 찾기                            | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12921)                                   |           |
-| 25  | 소수 만들기                           | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977)                                   |           |
-| 26  | 덧칠하기                              | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                                  |           |
-| 27  | 과일 장수                             | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/135808)                                  |           |
-| 28  | 모의고사                             | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                   |           |
-| 29  | 폰켓몬                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    |           |
-| 30  | 기사단원의 무기                       | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798)                                  |           |
+| 25  | 소수 만들기                           | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977)                                   |           |
+| 26  | 덧칠하기                              | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                                  |           |
+| 27  | 과일 장수                             | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/135808)                                  |           |
+| 28  | 모의고사                             | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                   |           |
+| 29  | 폰켓몬                               | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    |           |
+| 30  | 기사단원의 무기                       | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798)                                  |           |
 | 31  | 2016년                               | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                                   |           |
 | 32  | [1차] 비밀지도                        | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                                   |           |
 | 33  | 카드 뭉치                             | Lv. 1 | ✅ | 2025.02.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                                  |           |
