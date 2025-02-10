@@ -134,8 +134,3 @@
 | 78  | x만큼 간격이 있는 n개의 숫자            | Lv. 1 | ✅ | 2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954)                                   |           |
 | 79  | 나머지가 1이 되는 수 찾기              | Lv. 1 | ✅ |2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389)                                   |           |
 | 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |           |
-
-
-
-## [프로그래머스 LV2](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=2)
-## [프로그래머스 LV3](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=3)
