@@ -49,25 +49,6 @@
 | 43 | 다이나믹 프로그래밍 1 | 2×n 타일링 2 |       ![Silver 3](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/silver3.svg)      |✅|       2024.09.02         |      [11727](https://www.acmicpc.net/problem/11727)     |    [문제 풀이](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/11727_2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202_%EB%B0%B1%EC%A4%80.js)       |
 | 44 | 다이나믹 프로그래밍 1 | 1, 2, 3 더하기 |        ![Silver 3](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/silver3.svg)      |✅|       2024.09.03            |      [9095](https://www.acmicpc.net/problem/9095)     |  [문제 풀이](https://github.com/wonggamggik/CodingTest/blob/main/wonggamggik/Baekjoon%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/9095_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0_%EB%B0%B1%EC%A4%80.js)         |
 | 1 | 브루트 포스 | 일곱 난쟁이 |      ![Bronze 1](https://github.com/wonggamggik/CodingTest/blob/main/additional_points/baekjoon_mark/bronze1.svg)      |✅|       2024.08.23               |  [2309](https://www.acmicpc.net/problem/2309)         |   [문제 풀이]
-| 51 | 다이나믹 프로그래밍 1 | 가장 긴 증가하는 부분 수열 4 |         |            |               |      [14002](https://www.acmicpc.net/problem/14002)     |           |
-| 52 | 다이나믹 프로그래밍 1 | 연속합 |         |            |               |      [1912](https://www.acmicpc.net/problem/1912)     |           |
-| 53 | 다이나믹 프로그래밍 1 | 제곱수의 합 |         |            |               |      [1699](https://www.acmicpc.net/problem/1699)     |           |
-| 54 | 다이나믹 프로그래밍 1 | 합분해 |         |            |               |      [2225](https://www.acmicpc.net/problem/2225)     |           |
-| 55 | 다이나믹 프로그래밍 1 (연습) | 1, 2, 3 더하기 3 |         |            |               |      [15988](https://www.acmicpc.net/problem/15988)     |           |
-| 56 | 다이나믹 프로그래밍 1 (연습) | RGB거리 |         |            |               |      [1149](https://www.acmicpc.net/problem/1149)     |           |
-| 57 | 다이나믹 프로그래밍 1 (연습) | 동물원 |         |            |               |      [1309](https://www.acmicpc.net/problem/1309)     |           |
-| 58 | 다이나믹 프로그래밍 1 (연습) | 오르막 수 |         |            |               |      [11057](https://www.acmicpc.net/problem/11057)     |           |
-| 59 | 다이나믹 프로그래밍 1 (연습) | 스티커 |         |            |               |      [9465](https://www.acmicpc.net/problem/9465)     |           |
-| 60 | 다이나믹 프로그래밍 1 (연습) | 포도주 시식 |         |            |               |      [2156](https://www.acmicpc.net/problem/2156)     |           |
-| 61 | 다이나믹 프로그래밍 1 (연습) | 정수 삼각형 |         |            |               |      [1932](https://www.acmicpc.net/problem/1932)     |           |
-| 62 | 다이나믹 프로그래밍 1 (연습) | 가장 큰 증가 부분 수열 |         |            |               |      [11055](https://www.acmicpc.net/problem/11055)     |           |
-| 63 | 다이나믹 프로그래밍 1 (연습) | 가장 긴 감소하는 부분 수열 |         |            |               |      [11722](https://www.acmicpc.net/problem/11722)     |           |
-| 64 | 다이나믹 프로그래밍 1 (연습) | 가장 긴 바이토닉 부분 수열 |         |            |               |      [11054](https://www.acmicpc.net/problem/11054)     |           |
-| 65 | 다이나믹 프로그래밍 1 (연습) | 연속합 2 |         |            |               |      [13398](https://www.acmicpc.net/problem/13398)     |           |
-| 66 | 다이나믹 프로그래밍 1 (연습) | 타일 채우기 |         |            |               |      [2133](https://www.acmicpc.net/problem/2133)     |           |
-| 67 | 다이나믹 프로그래밍 1 (도전) | 동물원 |         |            |               |      [1309](https://www.acmicpc.net/problem/1309)     |           |
-| 68 | 다이나믹 프로그래밍 1 (도전) | RGB거리 2 |         |            |               |      [17404](https://www.acmicpc.net/problem/17404)     |           |
-| 69 | 다이나믹 프로그래밍 1 (도전) | 합분해 |         |            |               |      [2225](https://www.acmicpc.net/problem/2225)     |           |
 
 # 프로그래머스 문제 풀이 목음
 ## [프로그래머스 LV1](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit&difficulty=1)
