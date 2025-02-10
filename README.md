@@ -75,7 +75,7 @@
 | 19  | 둘만의 암호                           | Lv. 1 | ✅ | 2025.01.09| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                                  |           |
 | 20  | 대충 만든 자판                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586)                                  |           |
 | 21  | [1차] 다트 게임                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17682)                                   |           |
-| 22  | 실패율                               | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                                   |           |
+| 22  | 실패율                               | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                                   |           |
 | 23  | 옹알이 (2)                            | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133499)                                  |           |
 | 24  | 소수 찾기                            | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12921)                                   |           |
 | 25  | 소수 만들기                           | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977)                                   |           |
