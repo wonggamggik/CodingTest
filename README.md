@@ -72,8 +72,8 @@
 | 16  | 완주하지 못한 선수                     | Lv. 1 | ✅ |  2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                                   |           |
 | 17  | 로또의 최고 순위와 최저 순위           | Lv. 1 | ✅ |  2025.01.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77484)                                   |           |
 | 18  | 문자열 나누기                         | Lv. 1 | ✅ |  2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108)                                  |           |
-| 19  | 둘만의 암호                           | Lv. 1 | ✅ | 2025.01.09| [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                                  |           |
-| 20  | 대충 만든 자판                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586)                                  |           |
+| 19  | 둘만의 암호                           | Lv. 1 | ✅ | 2025.01.09 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                                  |           |
+| 20  | 대충 만든 자판                        | Lv. 1 | ✅ | 2025.01.20 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586)                                  |           |
 | 21  | [1차] 다트 게임                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17682)                                   |           |
 | 22  | 실패율                               | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                                   |           |
 | 23  | 옹알이 (2)                            | Lv. 1 | ✅ | 2025.02.10 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133499)                                  |           |
