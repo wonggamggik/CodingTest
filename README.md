@@ -22,7 +22,7 @@
 | 7   | 달리기 경주                           | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                                  |           
 | 8   | 신규 아이디 추천                      | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                   |           
 | 9   | 바탕화면 정리                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161990)                                  |           
-| 10  | 키패드 누르기                         | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                                   |           
+| 10  | 키패드 누르기                         | Lv. 1 | ✅ |  2025.02.23 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                                   |           
 | 11  | 크레인 인형뽑기 게임                   | Lv. 1 | ✅ |  2025.01.19 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64061)                                   |           
 | 12  | 성격 유형 검사하기                    | Lv. 1 | ✅ |  2025.02.22 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118666)                                  |           
 | 13  | 숫자 짝꿍                             | Lv. 1 | ✅ |  2025.01.18 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131128)                                  |           
