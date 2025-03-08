@@ -18,7 +18,7 @@
 | 3   | 신고 결과 받기                        | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                                   |           
 | 4   | [PCCP 기출문제] 1번 / 붕대 감기       | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250137)                                  |           
 | 5   | 공원 산책                             | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/172928)                                  |           
-| 6   | 개인정보 수집 유효기간                | Lv. 1 |    |             | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370)                                  |           
+| 6   | 개인정보 수집 유효기간                | Lv. 1 | ✅ |  2025.03.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370)                                  |           
 | 7   | 달리기 경주                           | Lv. 1 | ✅ |  2025.03.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                                  |           
 | 8   | 신규 아이디 추천                      | Lv. 1 | ✅ |  2025.02.25 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                   |           
 | 9   | 바탕화면 정리                         | Lv. 1 | ✅ |  2025.02.24 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161990)                                  |           
