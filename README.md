@@ -92,7 +92,10 @@
 | 77  | 평균 구하기                           | Lv. 1 | ✅ | 2025.01.08 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                                   |           
 | 78  | x만큼 간격이 있는 n개의 숫자            | Lv. 1 | ✅ | 2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954)                                   |           
 | 79  | 나머지가 1이 되는 수 찾기              | Lv. 1 | ✅ |2025.01.07 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389)                                   |           
-| 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |           
+| 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |  
+| 81  | 유연근무제            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388351?language=javascript)                                   |
+| 82  | 택배 상자 꺼내기            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=javascript)                                   |
+| 83  | 비밀 코드 해독            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388352?language=javascript)                                   |
 
 # 백준 문제 풀이 목음
 ## [알고리즘 기초 1/2](https://code.plus/course/41) 
