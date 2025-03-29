@@ -95,7 +95,6 @@
 | 80  | 자연수 뒤집어 배열로 만들기            | Lv. 1 | ✅ | 2025.01.17 | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932)                                   |  
 | 81  | 유연근무제            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388351?language=javascript)                                   |
 | 82  | 택배 상자 꺼내기            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=javascript)                                   |
-| 83  | 비밀 코드 해독            | Lv. 1 |  |  | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388352?language=javascript)                                   |
 
 # 백준 문제 풀이 목음
 ## [알고리즘 기초 1/2](https://code.plus/course/41) 
